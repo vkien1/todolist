@@ -1,3 +1,5 @@
 # todolist
 
-A new Flutter project.
+My flutter app to_do_list!
+using firebase integration :D
+
